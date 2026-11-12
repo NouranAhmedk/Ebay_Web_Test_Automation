@@ -57,21 +57,20 @@ public class ITestListener_Listener implements ITestListener, IInvokedMethodList
     @SneakyThrows
     public void onTestSuccess(ITestResult result)
     {
-        Thread.sleep(1300);
         takeScreenShot("Passed_TCs_Screenshots/", result.getName(), ".png");
     }
 
     @Override
     @SneakyThrows
     public void onTestFailure(ITestResult result) {
-        Thread.sleep(1300);
+
         takeScreenShot("Failed_TCs_Screenshots/", result.getName(), ".png");
     }
     @Override
     @SneakyThrows
     public void onTestSkipped(ITestResult result)
     {
-        Thread.sleep(1300);
+
         takeScreenShot("Skipped_TCs_Screenshots/", result.getName(), ".png");
     }
 

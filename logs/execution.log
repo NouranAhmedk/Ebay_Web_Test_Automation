@@ -22,3 +22,38 @@
   C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
 
 2026-11-12 23:27:41.019 INFO  tests.ebay_tests.Mazda_Mx5_Search_Test - Number of search results obtained: 1
+2026-11-12 23:34:01.789 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-12 23:34:55.779 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-12 23:39:29.372 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-12 23:39:53.035 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-12 23:41:12.900 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-12 23:43:45.771 INFO  tests.ebay_tests.Mazda_Mx5_Search_Test - Number of search results obtained: 1
+2026-11-12 23:46:44.316 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-12 23:46:57.407 INFO  tests.ebay_tests.Mazda_Mx5_Search_Test - Number of search results obtained: 1
+2026-11-12 23:58:58.257 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-13 00:00:19.402 INFO  tests.ebay_tests.Mazda_Mx5_Search_Test - Number of search results obtained: 1
+2026-11-13 00:02:50.475 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-13 00:04:57.760 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Legion 5 Pro\AppData\Local\JetBrains\IntelliJIdea2026.3\temp-testng-customsuite.xml
+
+2026-11-13 00:05:11.672 INFO  tests.ebay_tests.Mazda_Mx5_Search_Test - Number of search results obtained: 1
+2026-11-13 00:06:00.940 INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Luftborn\Ebay_Web_Test_Automation\TestSuites\Categories\RegressionSuite.xml
+
+2026-11-13 00:07:16.302 INFO  tests.ebay_tests.Mazda_Mx5_Search_Test - Number of search results obtained: 1

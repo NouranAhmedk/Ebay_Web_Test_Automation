@@ -2,6 +2,7 @@ package tests.ebay_tests;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Feature;
+import listeners.IRetryAnalyzer_Listener;
 import org.testng.annotations.Test;
 import test_bases.Ebay_TestBase;
 import web_pages.car_page.Car_Actions;
@@ -18,7 +19,7 @@ public class Mazda_Mx5_Search_Test extends Ebay_TestBase {
     /****************************************TEST_CASES**********************************************************/
     @Feature("Mazda MX-5 Search")
     @Description("Search Mazda MX-5, log results count, and filter Transmission to Manual")
-    @Test(testName = "Search Mazda MX-5, Log Results Count, And Filter Transmission To Manual", groups = {"Regression"})
+    @Test(testName = "Search Mazda MX-5, Log Results Count, And Filter Transmission To Manual", groups = {"Regression"} ,retryAnalyzer = IRetryAnalyzer_Listener.class)
     public void search_Mazda_Mx5_Log_Results_Count_And_Filter_Transmission_To_Manual()
     {
         ha = new Home_Actions();
