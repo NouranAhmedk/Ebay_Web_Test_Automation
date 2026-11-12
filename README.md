@@ -75,3 +75,6 @@ allure generate allure-results --clean --single-file -o allure-report
 ```
 
 Open `allure-report/index.html`. The results directory is set in `src/test/resources/allure.properties`.
+
+Link of Google drive for Video and Allure results:
+https://drive.google.com/drive/folders/1mCFbP228bUPBq-7juC6ihjKgWdFJzvSM?usp=sharing
